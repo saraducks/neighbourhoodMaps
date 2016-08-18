@@ -6,7 +6,7 @@
           center: latlng,
           zoom: 4
         });
-
+        //adding the marker to the location specified
          var marker = new google.maps.Marker({
                position: latlng,
                map: map,
