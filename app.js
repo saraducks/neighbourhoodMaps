@@ -12,4 +12,11 @@
                map: map,
                title: 'Hello World!'
         });
+        //displays the info window to the marker
+        var infowindow = new google.maps.InfoWindow({
+          content : 'This is my first infowindow display'
+        });
+        marker.addListener('click',function(){
+          infowindow.open(map,marker);
+        });
       }
