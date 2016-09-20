@@ -3,4 +3,4 @@
  Knockout Js
  google Maps API
  
-https://github.com/saraducks/neighbourhoodMaps/blob/master/adding_infowindow_to_marker.html
+https://rawgit.com/saraducks/neighbourhoodMaps/master/adding_infowindow_to_marker.html
